@@ -1,0 +1,2 @@
+[32mINFO    [0m root:playwright_base.py:146 点击元素（选择器）：.ivu-icon.ivu-icon-ios-arrow-down
+[32mINFO    [0m root:playwright_base.py:151 ✅ 点击成功：.ivu-icon.ivu-icon-ios-arrow-down

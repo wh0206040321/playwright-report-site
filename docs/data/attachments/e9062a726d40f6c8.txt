@@ -1,0 +1,8 @@
+[32mINFO    [0m root:playwright_base.py:196 点击元素（Locator）：文本:'\ue6f8'
+[32mINFO    [0m root:playwright_base.py:201 ✅ 点击成功：文本:'\ue6f8'
+[32mINFO    [0m root:playwright_base.py:196 点击元素（Locator）：文本:'English'
+[32mINFO    [0m root:playwright_base.py:201 ✅ 点击成功：文本:'English'
+[32mINFO    [0m root:playwright_base.py:196 点击元素（Locator）：文本:'\ue6f8'
+[32mINFO    [0m root:playwright_base.py:201 ✅ 点击成功：文本:'\ue6f8'
+[32mINFO    [0m root:playwright_base.py:196 点击元素（Locator）：文本:'简体中文'
+[32mINFO    [0m root:playwright_base.py:201 ✅ 点击成功：文本:'简体中文'
