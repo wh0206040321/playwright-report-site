@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","30021","test_login_failed","Test.test_aps","Tue May 12 18:07:27 SGT 2026","broken","Tue May 12 18:07:57 SGT 2026","","test_login","",""
-"","4888","test_wrong_account_dropdown","Test.test_aps","Tue May 12 18:07:22 SGT 2026","passed","Tue May 12 18:07:27 SGT 2026","","test_login","",""
+"","4342","test_wrong_account_dropdown","Test.test_aps","Tue May 12 18:19:18 SGT 2026","passed","Tue May 12 18:19:22 SGT 2026","","test_login","",""
+"","30374","test_login_failed","Test.test_aps","Tue May 12 18:19:22 SGT 2026","broken","Tue May 12 18:19:52 SGT 2026","","test_login","",""
