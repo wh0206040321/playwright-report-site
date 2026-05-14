@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"07e9bc6351bd6b1a6cfe132565b5f3d0","name":"登录测试用例","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
+{"total":2,"items":[{"uid":"07e9bc6351bd6b1a6cfe132565b5f3d0","name":"登录测试用例","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}},{"uid":"4bbf96a9050a966458dc7d915945109f","name":"计划生产特征测试用例","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

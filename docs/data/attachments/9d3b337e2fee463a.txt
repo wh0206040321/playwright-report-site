@@ -1,0 +1,4 @@
+[32mINFO    [0m root:playwright_base.py:157 点击元素（选择器）：.ivu-icon.ivu-icon-ios-arrow-down
+[32mINFO    [0m root:playwright_base.py:162 ✅ 点击成功：.ivu-icon.ivu-icon-ios-arrow-down
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：文本:'金属（演示）'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：文本:'金属（演示）'

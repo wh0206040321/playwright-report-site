@@ -1,0 +1,18 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：文本:'计划管理'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：文本:'计划管理'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：子菜单:计划生产特征
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：子菜单:计划生产特征
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：菜单:生产特征1
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：菜单:生产特征1
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：添加布局按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：添加布局按钮
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：input:当前布局:
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：input:当前布局:
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：checkbox:是否默认启动:
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：checkbox:是否默认启动:
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：显示设置
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：显示设置
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：checkbox:是否可见:
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：checkbox:是否可见:
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：布局确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：布局确定按钮
