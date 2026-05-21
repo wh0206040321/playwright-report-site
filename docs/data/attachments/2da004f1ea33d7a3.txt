@@ -1,0 +1,61 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：文本:'计划管理'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：文本:'计划管理'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：子菜单:计划基础数据
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：子菜单:计划基础数据
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：菜单:资源
+[33mWARNING [0m root:playwright_base.py:141 ⚠️ 常规点击失败，尝试 JS 点击：Locator.click: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("#app").locator(".el-menu").first.locator("span.menuItemSpan").filter(has_text=re.compile(r"^资源$")).first
+    - locator resolved to <span class="menuItemSpan">资源</span>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - performing click action
+    - <li tabindex="-1" role="menuitem" class="el-menu-item">…</li> intercepts pointer events
+  - retrying click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <li tabindex="-1" role="menuitem" class="el-menu-item">…</li> intercepts pointer events
+  - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - performing click action
+    2 × <li tabindex="-1" role="menuitem" class="el-menu-item">…</li> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+    14 × <li tabindex="-1" role="menuitem" class="el-menu-item">…</li> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+    - <li tabindex="-1" role="menuitem" class="el-menu-item">…</li> intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+[32mINFO    [0m root:playwright_base.py:144 ✅ JS 点击成功
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：菜单:资源
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：添加布局按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：添加布局按钮
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：input:当前布局:
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：input:当前布局:
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：checkbox:是否默认启动:
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：checkbox:是否默认启动:
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：显示设置
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：显示设置
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：checkbox:是否可见:
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：checkbox:是否可见:
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：布局确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：布局确定按钮

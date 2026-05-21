@@ -1,0 +1,13 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'资源代码'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'资源代码'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行1比较关系
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行1比较关系
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'='
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'='
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行1值输入
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行1值输入
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：布局确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：布局确定按钮
+[32mINFO    [0m playwright-aps:PlanningBasicDataPage.py:512 右键应用：资源

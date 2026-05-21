@@ -1,0 +1,10 @@
+[32mINFO    [0m playwright-aps:PlanningBasicDataPage.py:512 右键应用：资源
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：漏斗:资源代码
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：漏斗:资源代码
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：包含
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：包含
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：漏斗:资源代码
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：漏斗:资源代码
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：清除所有筛选条件
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：清除所有筛选条件
+[32mINFO    [0m playwright-aps:PlanningBasicDataPage.py:512 右键应用：资源

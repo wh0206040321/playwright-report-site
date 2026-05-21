@@ -1,0 +1,32 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：漏斗:资源代码
+[33mWARNING [0m root:playwright_base.py:141 ⚠️ 常规点击失败，尝试 JS 点击：Locator.click: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("div.vxe-table--main-wrapper").filter(visible=True).first.locator("th").filter(has_text="资源代码").first.locator("i.vxe-icon-funnel").first
+    - locator resolved to <i data-v-13867d8e="" class="vxe-icon-funnel suffixIcon activeIcon"></i>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-8e0bb90a="" class="publicFormModal vxe-modal--wrapper type--modal is--animat lock--view is--resize is--mask is--visible is--active">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-v-8e0bb90a="" class="publicFormModal vxe-modal--wrapper type--modal is--animat lock--view is--resize is--mask is--visible is--active">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    38 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-v-8e0bb90a="" class="publicFormModal vxe-modal--wrapper type--modal is--animat lock--view is--resize is--mask is--visible is--active">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+[32mINFO    [0m root:playwright_base.py:144 ✅ JS 点击成功
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：漏斗:资源代码
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：包含
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：包含

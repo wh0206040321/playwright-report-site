@@ -1,0 +1,4 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：新增
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：新增
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：表格确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：表格确定按钮

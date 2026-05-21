@@ -1,0 +1,41 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'名称'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'名称'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询单元格 r1c3
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询单元格 r1c3
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'('
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'('
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行1比较关系
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行1比较关系
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'包含'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'包含'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行1值输入
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行1值输入
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询单元格 r1c7
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询单元格 r1c7
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:')'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:')'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：逻辑:and
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：逻辑:and
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询单元格 r2c3
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询单元格 r2c3
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'('
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'('
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询单元格 r2c4
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询单元格 r2c4
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'显示顺序'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'显示顺序'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行2比较关系
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行2比较关系
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'>'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'>'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行2值输入
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行2值输入
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询单元格 r2c7
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询单元格 r2c7
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:')'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:')'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：布局确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：布局确定按钮
+[32mINFO    [0m playwright-aps:SpecPage.py:414 右键应用：生产特征1

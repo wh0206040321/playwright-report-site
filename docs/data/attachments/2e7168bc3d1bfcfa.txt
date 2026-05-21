@@ -1,0 +1,27 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：菜单:生产特征8
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：菜单:生产特征8
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：新增
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：新增
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：表格确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：表格确定按钮
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：编辑
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：编辑
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：表格确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：表格确定按钮
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'代码'
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'代码'
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行1比较关系
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行1比较关系
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询选项:'='
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询选项:'='
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：查询行1值输入
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：查询行1值输入
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：布局确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：布局确定按钮
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：删除
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：删除
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：弹窗确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：弹窗确定按钮
+[32mINFO    [0m playwright-aps:SpecPage.py:414 右键应用：生产特征8

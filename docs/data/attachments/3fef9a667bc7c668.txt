@@ -1,0 +1,7 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：删除
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：删除
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：弹窗确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：弹窗确定按钮
+[32mINFO    [0m playwright-aps:PlanningBasicDataPage.py:512 右键应用：客户
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：弹窗确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：弹窗确定按钮

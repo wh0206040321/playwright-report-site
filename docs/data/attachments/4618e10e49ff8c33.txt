@@ -1,0 +1,14 @@
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：编辑
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：编辑
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：表格确定按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：表格确定按钮
+[32mINFO    [0m playwright-aps:SpecPage.py:414 右键应用：生产特征1
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：显示设置
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：显示设置
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：布局取消按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：布局取消按钮
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：编辑
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：编辑
+[32mINFO    [0m root:test_spec.py:153 before_all_value=['1', '1测试数据B', '1测试数据B', '1测试数据B', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11', '11'], user=['hongaoqing', '2026/05/21 17:08:39'], today_str=2026/05/21
+[32mINFO    [0m root:playwright_base.py:209 点击元素（Locator）：表格取消按钮
+[32mINFO    [0m root:playwright_base.py:214 ✅ 点击成功：表格取消按钮

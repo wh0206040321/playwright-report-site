@@ -1,0 +1,1 @@
+[32mINFO    [0m playwright-aps:PlanningBasicDataPage.py:512 右键应用：资源
